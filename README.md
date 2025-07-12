@@ -111,7 +111,7 @@ By using DAX, Power Query, and logical data validation, the analysis provides a 
 ## 📁 Files Included
 
 - `Orders.xlsx` –> Raw order data
-- `Deliveries.xlsx` –> Delivery metadata
+- `Deliveries.xlsx` –> Delivery raw data
 - `Products.xlsx` –> Product metadata
 - `E-Commerce_Logistics_Operations.pbix` –> Complete Power BI report with cleaning logic, KPI calculations, and visuals
 - `Logistics Case Study.docx` –> Collected Insights File
