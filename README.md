@@ -90,6 +90,8 @@ From the cleaned and validated dataset, the following business insights were ext
   - `Electronics` category represents **39.3%** of all orders — a high-value and sensitive category.
 - 📅 **Seasonality**:
   - Highest order and delivery volume observed in **Month 5 (May)**.
+- 💸 **Payment Method**:
+  -  The **wallet** is the most common payment method **(345)** used, and cash on delivery (329) and card (326) are nearly identical.
 
 ---
 
