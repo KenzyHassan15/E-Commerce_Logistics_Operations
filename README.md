@@ -123,3 +123,9 @@ By using DAX, Power Query, and logical data validation, the analysis provides a 
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
+
+# E-Commerce Logistics Operations Dashboard
+<img width="1342" height="738" alt="image" src="https://github.com/user-attachments/assets/e0f9fcc7-53de-434c-aa05-6f069ad21912" />
+<img width="1325" height="737" alt="image" src="https://github.com/user-attachments/assets/977f882f-f367-44ab-93e5-e8d73a067493" />
+
+
